@@ -1,0 +1,18 @@
+.tokenomics {
+  padding: 50px 20px;
+  background-color: #12151a;
+  text-align: center;
+}
+
+.tokenomics h2 {
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.token-details {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 30px;
+  color: #c1c7cd;
+}

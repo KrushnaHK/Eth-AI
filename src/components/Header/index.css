@@ -1,0 +1,25 @@
+.header {
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.header-content h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #ffffff;
+}
+
+.header-content p {
+  font-size: 1.5rem;
+  margin: 20px 0;
+  color: #ffffff;
+}
+
+.cta-button {
+  padding: 12px 30px;
+  background-color: #00b4d8;
+  border-radius: 50px;
+  font-weight: bold;
+}

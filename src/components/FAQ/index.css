@@ -1,0 +1,31 @@
+.faq {
+  padding: 50px 20px;
+  background-color: #12151a;
+  text-align: center;
+}
+
+.faq h2 {
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.faq-item {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #1b1f26;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: left;
+  cursor: pointer;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.faq-item h3 {
+  font-size: 1.25rem;
+  color: #00b4d8;
+}
+
+.faq-item p {
+  color: #c1c7cd;
+  display: none; /* Initially hidden */
+}

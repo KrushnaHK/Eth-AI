@@ -1,0 +1,26 @@
+.features {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 50px 20px;
+  background-color: #12151a;
+}
+
+.feature-card {
+  width: 300px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #1b1f26;
+  border-radius: 10px;
+  text-align: left;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.feature-card h3 {
+  font-size: 1.5rem;
+  color: #00b4d8;
+}
+
+.feature-card p {
+  color: #c1c7cd;
+}

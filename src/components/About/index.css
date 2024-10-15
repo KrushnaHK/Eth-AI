@@ -1,0 +1,23 @@
+.about {
+  padding: 50px 20px;
+  background-color: #0b0d12;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2.5rem;
+  color: #ffffff;
+}
+
+.about p {
+  max-width: 800px;
+  margin: 20px auto;
+  color: #c1c7cd;
+}
+
+.read-more-button {
+  background-color: #0077b6;
+  padding: 12px 30px;
+  border-radius: 50px;
+  font-weight: bold;
+}

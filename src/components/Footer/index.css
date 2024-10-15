@@ -1,0 +1,20 @@
+.footer {
+  padding: 30px 20px;
+  background-color: #0b0d12;
+  text-align: center;
+}
+
+.footer p {
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+.social-links {
+  margin-top: 20px;
+}
+
+.social-links a {
+  color: #ffffff;
+  margin: 0 10px;
+  font-size: 1.5rem;
+}

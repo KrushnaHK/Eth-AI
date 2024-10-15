@@ -1,0 +1,23 @@
+.roadmap {
+  padding: 50px 20px;
+  background-color: #0b0d12;
+  text-align: center;
+}
+
+.roadmap-phase {
+  max-width: 400px;
+  margin: 20px auto;
+  background-color: #1b1f26;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.roadmap-phase h3 {
+  font-size: 1.5rem;
+  color: #00b4d8;
+}
+
+.roadmap-phase p {
+  color: #c1c7cd;
+}
